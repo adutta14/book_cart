@@ -1,1 +1,1 @@
-# book_cart
+The application would allow any user to login to the portal and select any book that are available to buy and add it in the shopping cart. An admin user can even add or remove the book in the list which would reflect dynamically in the catalog. The main idea was here to maintain the state of user and their last items added to the cart.
