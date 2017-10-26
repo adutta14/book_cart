@@ -1,0 +1,48 @@
+{
+<<<<<<< HEAD
+  "name": "ser421lab3",
+  "version": "1.0.0",
+  "description": "a",
+  "main": "lab3.js",
+=======
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab3.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.1",
+    "express-session": "^1.15.6"
+  },
+  "devDependencies": {},
+>>>>>>> 157b2dfa18ef7a9376b285a1a25ce7ceb3f3fd2c
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adutta14/SER421Lab3.git"
+  },
+<<<<<<< HEAD
+  "author": "Sachin",
+=======
+  "author": "",
+>>>>>>> 157b2dfa18ef7a9376b285a1a25ce7ceb3f3fd2c
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adutta14/SER421Lab3/issues"
+  },
+<<<<<<< HEAD
+  "homepage": "https://github.com/adutta14/SER421Lab3#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6"
+  }
+=======
+  "homepage": "https://github.com/adutta14/SER421Lab3#readme"
+>>>>>>> 157b2dfa18ef7a9376b285a1a25ce7ceb3f3fd2c
+}
